@@ -1,0 +1,39 @@
+Demo Prescription Input
+Pill #	Days				Hours		Pill Count
+1		1 2 3 4 5 6 7 		8 20		20	> Two every day.
+2		1 2 3 4 5 6 7		8 14 20		18	> Three every day.
+3		1 					8			12	> Once a week.
+
+Pills taken demo:
+	Pills taken after Notification 1
+	Pills taken after Notification 2
+	Pills taken after Notification 3
+	Pills not taken - caregiver notified. 
+
+
+Update Demo:
+Pill 	Days				Hours		Pill Count
+1		1 3 5 7				8 14 20		25 
+
+Refill Demo:
+Pill 	Days				Hours		Pill Count
+3		--					--			50
+
+New Demo:
+Pill 	Days				Hours		Pill Count
+4		2 4 6 				12			35
+
+Delete Demo:
+Pill 	Days				Hours		Pill Count
+2
+
+New Demo Two (fills in empty track):
+Pill 	Days				Hours		Pill Count
+2		2 4 6				8 14 20		35
+
+Refill Notification Demo
+Pill 	Days				Hours		Pill Count
+1		1 2 3 4 5 6 7		8 12 16 20	12
+
+After 7 days, cycle repeats. 
+
